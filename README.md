@@ -2,7 +2,7 @@
   <img src="assets/banner.svg" alt="Awesome SaaS App Integration Marketplace" width="100%">
 </p>
 
-# 🚀 Awesome SaaS App Integration Marketplace [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# 🚀 Awesome SaaS App Integration Marketplace <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 > 🌟 **A curated directory of top SaaS app stores, cloud integration marketplaces, connector registries, and open-source self-hosted plugin ecosystems.**
 
@@ -12,6 +12,8 @@
 - [📌 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
 - [🏢 SaaS & Hosted Integration Marketplaces](#-saas--hosted-integration-marketplaces)
 - [💻 Open-Source GitHub Projects & Frameworks](#-open-source-github-projects--frameworks)
+- [⭐ Star History](#-star-history)
+- [💖 Support](#-support)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [⚖️ Disclaimer & Security Notice](#️-disclaimer--security-notice)
 
@@ -64,6 +66,22 @@ The following open-source projects provide connector frameworks, self-hosted plu
 | **[AWS Serverless SaaS Marketplace](https://github.com/aws-samples/aws-marketplace-serverless-saas-integration)** | [![GitHub stars](https://img.shields.io/github/stars/aws-samples/aws-marketplace-serverless-saas-integration?style=social&color=white)](https://github.com/aws-samples/aws-marketplace-serverless-saas-integration/stargazers) | Cloud Marketplace Integration Adapter | Production reference architecture and serverless implementation for fulfilling, entitling, and metering SaaS products listed on AWS Marketplace. |
 | **[BotHive](https://github.com/rishabh3562/BotHive)** | [![GitHub stars](https://img.shields.io/github/stars/rishabh3562/BotHive?style=social&color=white)](https://github.com/rishabh3562/BotHive/stargazers) | AI Agent & Automation Marketplace | Open-source marketplace enabling builders to showcase, distribute, and monetize AI workflows and agents across Make, Zapier, and custom webhooks. |
 | **[Tabularium](https://codeberg.org/Tabularium/Tabularium)** | 🏷️ *Self-Hosted* | Self-Hosted Plugin Registry | Self-hostable plugin and artifact registry featuring multi-provider OAuth, webhook-triggered Git publishing, JWS signed releases, and download metrics. |
+
+---
+
+## 💖 Support
+
+If you find this repository valuable, thank you for supporting the project! You can show your appreciation by:
+- ⭐ **Starring** the repository to boost visibility.
+- 🍴 **Forking** and submitting PRs with fresh tools, registries, and updates.
+- 📢 **Sharing** with your developer community, colleagues, and network.
+- ☕ **Buying a coffee / sponsoring**: Support ongoing research and maintenance via the [Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-SAAS-App-Integration-Marketplace&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-SAAS-App-Integration-Marketplace&type=date&legend=top-left)
 
 ---
 
